@@ -1,6 +1,8 @@
 High Performance Network library
 ===
 
+*Note that version chronicle-network-1.0.5-alpha is the last official  release under the apache license.
+
 # Purpose
 The Netty library is a benchmark for high performance libraries. 
     Netty is designed for scalability in particular, horizontal scalability is
